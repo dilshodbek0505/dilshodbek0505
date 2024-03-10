@@ -34,8 +34,8 @@
 <br/>
 <hr/>
 
-<div align="center">
-    <h2>My skills</h2>
+<div>
+    <h2  align="center">My skills</h2>
     <ul>
         <li>✔️Python</li>
         <li>✔️Django</li>
