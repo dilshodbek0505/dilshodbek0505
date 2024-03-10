@@ -35,13 +35,26 @@
 <hr/>
 
 <div align="center">
+    <h2>My skills</h2>
+    <ul>
+        <li>✔️Python</li>
+        <li>✔️Django</li>
+        <li>✔️DRF(django rest framework)</li>
+        <li>✔️PostgreSQL && sqlite3</li>
+        <li>✔️HTML5</li>
+        <li>✔️CSS</li>
+        <li>🕐Docker</li>
+        <li>🕐Celery</li>
+        <li>🕐Nginx</li>
+    </ul>
+</div>
+
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dilshodbek0505/dilshodbek0505/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
-
 <hr/>
 
 <br/>
