@@ -42,7 +42,8 @@ Men dasturlash sohasida ko'p yillardan buyon shug'ullanib kelaman. Sohaga qiziqi
 
 > "Dasturlash — bu san'at. Har bir dasturchi o'z dasturida bir hayotni yaratadi."
 > 
-> — Steve Jobs <div style="width: 42px; height: 42px; overflow: hidden; border-radius: 50%;">
+> — Steve Jobs
+<div style="width: 42px; height: 42px; overflow: hidden; border-radius: 50%;">
     <img src="https://aniq.uz/photos/news/x1HrXKVxywvIvPp.jpeg" alt="Steve Jobs" style="width: 100%; height: auto;">
 </div>
 
