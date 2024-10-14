@@ -1,60 +1,42 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Salom, men ismim [Dilshodbek]!
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilshodbek!;I'm+backend+developer" />
-</h1>
+[![GitHub status](https://img.shields.io/badge/github-@username-181717.svg)](https://github.com/dilshodbek0505) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-@username-blue.svg)](https://linkedin.com/in/dilshodbek0505)
 
-<h3 align="center">A passionate software developer from Uzbekistan 🇺🇿</h3>
+Men dasturchiman, texnologiyalarni o'rganishni va yangi loyihalarni amalga oshirishni yoqtiraman. O'z tajribamni baham ko'rish va boshqalar bilan hamkorlik qilish orqali sohada yana ko'proq rivojlanmoqchiman.
 
-<br/>
+## 🛠️ Texnalogiyalar
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Nginx, Celery**
+- **Dasturlash tillari:** Python
+- **Veb-texnalogiyalar va frameworklar:** HTML, CSS, Django
+- **API texnalogiyam:** Django-rest-framework
+- **Ma'lumotlar bazalari:** PostgreSQL, Sqlite3
+- **Qo'shimcha:** Git, Docker, VS Code, Redis
 
-💬 Ask me about **Python, Django, Html... or anything [here](https://github.com/dilshodbek0505/dilshodbek0505/issues)**
+## 🌟 Loyihalar
 
+- **[Manfaad-books](link):** Tez kunda ...
+- **[D market](link):** Tez kunda ...
+- **[It park LC](link)** Tez kunda ...
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:ddilshod0415@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/dilshodbek-donaboyev-1a2214288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/dilshodbek0505/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+## ✉️ Mening bilan bog'laning
 
-<br/>
-<hr/>
+- **Email:** ddilshod0415@gmail.com
+- **LinkedIn:** [LinkedIn Profil](https://www.linkedin.com/in/dilshodbek-donaboyev/)
+- **Telegram:** [Telegram Profil](https://t.me/dilshodbek_donaboyev)
 
-<div>
-    <h2  align="center">My skills</h2>
-    <ul>
-        <li>✔️Python</li>
-        <li>✔️Django</li>
-        <li>✔️DRF(django rest framework)</li>
-        <li>✔️PostgreSQL && sqlite3</li>
-        <li>✔️HTML5</li>
-        <li>✔️CSS</li>
-        <li>🕐Docker</li>
-        <li>🕐Celery</li>
-        <li>🕐Nginx</li>
-    </ul>
-</div>
+## 📈 Statistikalar
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dilshodbek0505/dilshodbek0505/output/github-contribution-grid-snake.gif" />
-  <br/><br/><br/>
-</div>
-<hr/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshodbek0505&show_icons=true&theme=radical)
 
-<br/>
+## 💬 Mening qiziqishlarim
+
+- Dasturlash
+- Monkeytype [link](https://monkeytype.com/)
+- Hacking
+- Kino ko'rish ( janrlar: fantastik, ilmiy) 
+
+## 🤝 Hamkorlik
+
+Agar sizda biror loyiha bo'yicha hamkorlik qilish yoki shunchaki suhbatlashish niyatingiz bo'lsa, men bilan bog'laning! Sizga yordam bera olganimdan faqat xursand bo'laman 😊
+
