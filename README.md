@@ -1,4 +1,4 @@
-# Salom, men ismim [Dilshodbek]!
+# Salom, mening ismim [Dilshodbek]!
 
 [![GitHub status](https://img.shields.io/badge/github-@username-181717.svg)](https://github.com/dilshodbek0505) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-@username-blue.svg)](https://linkedin.com/in/dilshodbek0505)
