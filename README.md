@@ -41,7 +41,7 @@ Men dasturlash sohasida ko'p yillardan buyon shug'ullanib kelaman. Sohaga qiziqi
 ### 🎨 Ilhomlantiruvchi Sitata
 
 > "Dasturlash — bu san'at. Har bir dasturchi o'z dasturida bir hayotni yaratadi."  
-> — Steve Jobs ![Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
+> — Steve Jobs ![Steve Jobs](https://aniq.uz/photos/news/x1HrXKVxywvIvPp.jpeg)
 
 ## 🤝 Hamkorlik
 
